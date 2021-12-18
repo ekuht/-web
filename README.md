@@ -9,6 +9,6 @@
 ###### Добавьте возможность запрашивать только определенные типы файлов (.html, .css, .js и так далее). При запросе неразрешенного типа, верните ошибку 403.
 ![image](https://user-images.githubusercontent.com/81702479/146653472-860f488e-ca62-445e-aa12-6f69ed279401.png)
 ###### Если нет файла в директории, то ошибка 404
-![image](https://user-images.githubusercontent.com/92955179/146650041-65ef4eee-9457-4bc2-bf7f-0cc20df91090.png)
+![image](https://user-images.githubusercontent.com/81702479/146653490-cf7632aa-8893-4ed0-8213-a7a054e50db5.png)
 ###### Все наши логи хронятся в созданном файле
 ![image](https://user-images.githubusercontent.com/81702479/146653224-9b6665b6-a2b4-40ca-88bc-67cff9ad456e.png)
