@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/81702479/146652981-17758c11-1a94-4822-b920-104f66b755f0.png)
 ![image](https://user-images.githubusercontent.com/81702479/146653358-b2ce8a5a-21ef-4018-a667-8006c5deedb8.png)
 ###### Добавьте возможность запрашивать только определенные типы файлов (.html, .css, .js и так далее). При запросе неразрешенного типа, верните ошибку 403.
-![image](https://user-images.githubusercontent.com/92955179/146649986-13536012-2eb7-4206-b470-39ca07ce9d56.png)
+![image](https://user-images.githubusercontent.com/81702479/146653472-860f488e-ca62-445e-aa12-6f69ed279401.png)
 ###### Если нет файла в директории, то ошибка 404
 ![image](https://user-images.githubusercontent.com/92955179/146650041-65ef4eee-9457-4bc2-bf7f-0cc20df91090.png)
 ###### Все наши логи хронятся в созданном файле
